@@ -1,4 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kalam&weight=700&duration=4500&pause=2000&color=BDD355&background=54483D2A&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Henrique+Ferreira+Mendes;Desenvolvedor+Web+Pleno" alt="Typing SVG" /></a>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kalam&weight=700&duration=4500&pause=2000&color=BDD355&background=54483D2A&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Henrique+Ferreira+Mendes;Desenvolvedor+Web+Pleno" width="100%" alt="Typing SVG" />
+</div>
 ###
 
 <div align="center">
@@ -45,5 +48,6 @@
 </picture>
 
 ###
+
 
 
