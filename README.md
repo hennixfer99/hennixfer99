@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hennixfer99&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hennixfer99&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&background=45%2C000000%2C920000" alt="GitHub Streak" /></a>
 </div>
 
 ###
