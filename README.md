@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hennixfer99&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&background=45%2C000000%2C920000" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hennixfer99&theme=highcontrast&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=45%2C000000%2C920000" alt="GitHub Streak" /></a>
 </div>
 
 ###
